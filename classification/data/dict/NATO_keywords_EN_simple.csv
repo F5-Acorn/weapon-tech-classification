@@ -1,0 +1,115 @@
+﻿weapon description,weapon designation,유의어,한국어 번역
+2D materials,,2-D materials,2차원 소재
+additive manufacturing,,"AM, 3-D printing, 3D printing",적층 제조
+agile manufacturing,,,유연·신속 제조
+artificial general intelligence,,AGI,범용 인공지능
+artificial intelligence,,AI,인공지능
+artificial intelligence of things,,AIoT,지능형 사물인터넷
+augmented reality,,,증강현실
+automatic identification system,,AIS,자동식별시스템
+autonomous systems,,,자율 시스템
+autonomous vehicles,,,자율주행·자율운행 체계
+big data,,,빅데이터
+bio-fabrication,,,바이오 제작
+bio-manufacturing,,,바이오 제조
+bioelectronics,,,생체전자공학
+bioinformatics,,,생물정보학
+biosensors,,,바이오센서
+black silicon,,,블랙 실리콘
+blockchain,,,블록체인
+brain-machine interface,,,뇌·기계 인터페이스
+cloud computing,,,클라우드 컴퓨팅
+cognitive radar,,,인지 레이더
+combined cycle propulsion,,,복합 사이클 추진
+compressive sensing,,,압축 센싱
+computational imaging,,CI,계산 영상 기술
+cubesats,,,큐브위성
+data fusion,,,데이터 융합
+data science,,,데이터 과학
+deep learning,,,딥러닝
+digital twin,,,디지털 트윈
+directed energy weapon,,DEW,지향성에너지 무기
+distributed ledger technologies,,,분산원장 기술
+earth observation,,,지구 관측
+edge computing,,,엣지 컴퓨팅
+electro-optical,,EO,전자광학
+electromagnetic warfare,,"EW, electronic warfare",전자기전
+electronic intelligence,,ELINT,전자정보
+electronic masking,,,전자적 마스킹
+energy harvesting,,,에너지 하베스팅
+energy storage,,,에너지 저장
+exoskeleton,,,외골격
+expert systems,,,전문가 시스템
+explainable AI,,,설명 가능한 인공지능
+flexible displays,,,플렉시블 디스플레이
+generative adversarial network,,GAN,생성적 적대 신경망
+generative AI,,,생성형 인공지능
+genetic algorithm,,,유전 알고리즘
+genetic engineering,,,유전공학
+global navigation satellite system,,GNSS,위성항법시스템
+global positioning system,,GPS,위성위치확인시스템
+graphene,,,그래핀
+high energy lasers,,,고에너지 레이저
+human enhancement technologies,,HET,인간능력 증강 기술
+human-machine teaming,,,인간·기계 협업
+hypersonic cruise missile,,HCM,극초음속 순항미사일
+hypersonic glide vehicle,,HGV,극초음속 활공체
+hypersonic technologies,,HT,극초음속 기술
+infrared,,IR,적외선
+"intelligence, surveillance and reconnaissance",,ISR,정보·감시·정찰
+internet of things,,IoT,사물인터넷
+jamming,,,전파 방해
+lethal autonomous weapons systems,,LAWS,치명적 자율무기체계
+light detection and ranging,,LIDAR,라이다
+machine learning,,ML,머신러닝
+machine vision,,,머신 비전
+man-machine interface,,,인간·기계 인터페이스
+measurement and signature intelligence,,MASINT,계측·기호정보
+micro-fluidics,,,미세유체공학
+microsatellites,,,초소형위성·마이크로위성
+mixed reality,,,혼합현실
+nanosatellites,,,나노위성
+nanotechnologies,,,나노 기술
+neural interface,,,신경 인터페이스
+neural networks,,,신경망
+neural prostheses,,,신경보철
+passive coherent location,,PCL,수동 결맞음 위치탐지
+photonics,,,광자공학
+picosatellites,,,피코위성
+"positioning, navigation and timing",,PNT,위치·항법·시각 동기
+post-quantum cryptography,,,양자내성암호
+predictive analytics,,,예측 분석
+quantum communication,,QC,양자 통신
+quantum computing,,,양자 컴퓨팅
+quantum key distribution,,QKD,양자 키 분배
+quantum optics,,QO,양자광학
+quantum radar,,,양자 레이더
+quantum sensing,,,양자 센싱
+quantum simulation,,,양자 시뮬레이션
+quantum technologies,,QT,양자 기술
+quantum-safe cryptography,,,양자 안전 암호
+reinforcement learning,,,강화학습
+robotics and autonomous systems,,RAS,로봇·자율 시스템
+satellite communication,,,위성통신
+scramjet,,,스크램제트
+semantic analysis,,,의미 분석
+small satellites,,smallsats,소형위성
+smart coatings,,,스마트 코팅
+solar sail,,,태양돛
+space situational awareness,,,우주 상황인식
+spoofing,,,기만 신호·스푸핑
+stealth coatings,,,스텔스 코팅
+stealth technologies,,,스텔스 기술
+supervised learning,,,지도학습
+swarming,,,군집 운용
+synthetic biology,,,합성생물학
+synthetic-aperture radar,,SAR,합성개구레이더
+thermal imaging,,,열영상
+unmanned air vehicles,,UAV,무인 항공기
+unmanned combat aerial vehicle,,UCAV,무인 전투 항공기
+unmanned ground vehicle,,UGV,무인 지상 차량
+unmanned maritime systems,,UMS,해양 무인체계
+unmanned surface vehicle,,USV,무인 수상정
+unmanned underwater vehicles,,UUV,무인 수중체
+unsupervised learning,,,비지도학습
+virtual reality,,,가상현실
