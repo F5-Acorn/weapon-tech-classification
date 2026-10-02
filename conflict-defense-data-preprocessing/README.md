@@ -78,8 +78,3 @@ python main.py validate --config config.json
 수집 저장소가 만든 `work/pipeline.sqlite`(`meta.db_format = "f5-collection-db-v2"`, 테이블 meta·input_rows·pages)를 읽고,
 1단계에서 `matched_pages`, `matches`, `selected_articles`, `article_exclusions`, `decisions`, `result_rows`를 같은 DB에 추가합니다.
 단계 완료 기록은 수집이 `collect1`·`collect2`, 전처리가 `prep1`~`prep4`라는 이름으로 같은 meta 테이블에 남기며, 수집 2단계가 끝나야 전처리 1단계를 시작할 수 있습니다.
-
-## 한계
-
-- 규칙 기반 자동 분류이며 사람이 확인한 결과가 아닙니다. 동사의 뜻, 주체·대상, 과거 사건 배경 설명을 구분하지 못하고 영어 기사만 처리합니다.
-- 보고서 수치(articles 994,381건, result 66,113행)는 팀 DB 적재본 값입니다. 중복 제외를 판정 전 매칭 내용으로 하므로 다시 실행한 행 수가 정확히 같다고 보장하지 않습니다.
