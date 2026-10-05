@@ -1,8 +1,0 @@
-# 1~3차 분류에 필요
-pandas>=2.0
-openpyxl>=3.1
-wordfreq>=3.0
-
-# 0단계 본문 수집(fetch_bodies.py)은 표준 라이브러리만으로 동작한다.
-# 아래는 선택 — 설치하면 본문 추출 품질이 올라간다.
-# trafilatura>=1.6
